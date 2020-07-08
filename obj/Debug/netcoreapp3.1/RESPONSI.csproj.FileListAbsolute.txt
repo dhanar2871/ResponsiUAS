@@ -1,0 +1,13 @@
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.csprojAssemblyReference.cache
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.csproj.CoreCompileInputs.cache
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.AssemblyInfoInputs.cache
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.AssemblyInfo.cs
+D:\New folder\RESPONSI\bin\Debug\netcoreapp3.1\RESPONSI.exe
+D:\New folder\RESPONSI\bin\Debug\netcoreapp3.1\RESPONSI.deps.json
+D:\New folder\RESPONSI\bin\Debug\netcoreapp3.1\RESPONSI.runtimeconfig.json
+D:\New folder\RESPONSI\bin\Debug\netcoreapp3.1\RESPONSI.runtimeconfig.dev.json
+D:\New folder\RESPONSI\bin\Debug\netcoreapp3.1\RESPONSI.dll
+D:\New folder\RESPONSI\bin\Debug\netcoreapp3.1\RESPONSI.pdb
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.dll
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.pdb
+D:\New folder\RESPONSI\obj\Debug\netcoreapp3.1\RESPONSI.genruntimeconfig.cache
